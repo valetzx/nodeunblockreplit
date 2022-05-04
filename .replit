@@ -1,0 +1,2 @@
+run = ["bash", "piggy.sh"]
+entrypoint = "piggy.sh"
